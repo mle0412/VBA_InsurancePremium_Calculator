@@ -40,7 +40,7 @@ Inputs are included:
 # Note:
   1. Excel VBA Macro must be enabled.
   2. Microsoft Outlook Object Library in References must be enabled.
-  3. Both the Insurance_Premium and Data_Sources file must be saved in: ```bash D:\Personal Learning\VBA ```
+  3. Both the Insurance_Premium and Data_Sources file must be saved in: ```D:\Personal Learning\VBA ```
 
 # Disclaimer:
   1. This project is only used as an example, to featuring Minh Le's skill in VBA coding.
