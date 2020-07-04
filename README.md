@@ -1,5 +1,6 @@
 ```bash
-This is a project developed by Minh Le, an Actuarial Sciences student at Georgia State University. Currently, Minh Le is seeking for an Internship with an Insurance/Actuarial Consulting company.
+This is a project developed by Minh Le, an Actuarial Sciences student at Georgia State University.
+Currently, Minh Le is seeking for an Internship with an Insurance/Actuarial Consulting company.
 ```
 
 # Project: Automated Insurance Premium Calculator
