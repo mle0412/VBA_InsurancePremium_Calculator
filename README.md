@@ -1,9 +1,10 @@
+# Automated Insurance Premium Calculator
+
 ```bash
 This is a project developed by Minh Le, an Actuarial Sciences student at Georgia State University.
 Currently, Minh Le is seeking for an Internship with an Insurance/Actuarial Consulting company.
 ```
 
-# Automated Insurance Premium Calculator
 
 # Project summary:
 A system that calculates the Term Life Insurance's premiums for the users, based on their input information.
