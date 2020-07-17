@@ -37,8 +37,7 @@ Inputs are included:
   3. Both the Insurance_Premium and Data_Sources file must be saved in: ```D:\Personal Learning\VBA ```
 
 # Disclaimer:
-  1. This project is only used as an example, to featuring Minh Le's skill in VBA coding.
-  2. The quotes which reported from this Calculator will not reflect the true premium that user will be required in real-life.
+  1. The quotes which reported from this Calculator will not reflect the true premium that user will be required in real-life.
   2. Many of the data is made up (such as the Name and Fee of providers, Probability that Smoking and Drinking will increase the mortality, ... etc.)
 
 # License:
