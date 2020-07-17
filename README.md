@@ -1,4 +1,4 @@
-# Automated Insurance Premium Calculator
+# Insurance Premium Calculator
 
 # Project summary:
 A system that calculates the Term Life Insurance's premiums for the users, based on their input information.
