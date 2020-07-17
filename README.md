@@ -1,7 +1,7 @@
 # Automated Insurance Premium Calculator
 
 ```bash
-This is a project developed by Minh Le, an Actuarial Sciences student at Georgia State University.
+This is a project finished by Minh Le, an Actuarial Sciences student at Georgia State University.
 Currently, Minh Le is seeking an Internship with an Insurance/Actuarial Consulting company.
 ```
 
