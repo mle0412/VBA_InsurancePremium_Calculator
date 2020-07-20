@@ -21,14 +21,15 @@ Inputs are included:
   6. Create a graph that helps the user compare and choose the provider that best fits his/her needs.
   7. Automatically save the report as pdf file into the folder, which used to store this Excel workbook.
   8. Automatically send an email to the email address provided by the user.
-  *** To be added in soon: send the information of the user (with notice and consent) to the database system for further analysis.
+  *** To be added in soon: send the information of the user (with notice and consent) to the database for further analysis.
 
 # How to use:
   1. Input all of the required information (Name, age, desired benefits, ... etc. )
-  2. Click on Update button to get the most recent factors from the data sources then choose the providers.
-  3. Click on Premium Calculation button for running the calculator. (Calculator will be run in the back, so nothing will happen)
-  4. Click on Premium Comparision button for results to be reported and sorted. (Report will be run in the back, so nothing will happen)
-  5. Choose how Report will be exported (save as a PDF or send to the email provided) and click on Print/Email button to execute.
+  2. Click "Update" button to get the most recent factors from the data sources then choose the providers.
+  3. Click "Premium Calculation" button for running the calculator. (Calculator will be run in the back, so nothing will happen)
+  4. Click "Premium Comparision" button for results to be reported and sorted. (Report will be run in the back, so nothing will happen)
+  5. Choose how Report will be exported (save as a PDF or send to the email provided, or both) and click on Print/Email button to execute.
+  6. Click "Exit" to close form and open Excel workbook. 
   *** Note: because the VBA code execution is suspended while the user is in Print Preview, the Preview mode will not be available at this time.
   
 # Note:
