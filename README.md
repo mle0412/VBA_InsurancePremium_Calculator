@@ -21,7 +21,7 @@ Inputs are included:
   6. Create a graph that helps the user compare and choose the provider that best fits his/her needs.
   7. Automatically save the report as pdf file into the folder, which used to store this Excel workbook.
   8. Automatically send an email to the email address provided by the user.
-  *** To be added in soon: send the information of the user (with notice and consent) to the database for further analysis.
+ 
 
 # How to use:
   1. Input all of the required information (Name, age, desired benefits, ... etc. )
